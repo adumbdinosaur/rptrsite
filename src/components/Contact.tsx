@@ -8,15 +8,6 @@ const Contact: React.FC = () => {
                 <a href='mailto:william@rptr.dev' className="text-terminal-green hover:text-green-300">E-mail</a>
                 <p></p>
                 <a
-                    href="https://github.com/adumbdinosaur"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-terminal-green hover:text-green-300"
-                >
-                    GitHub
-                </a>
-                <p></p>
-                <a
                     href="https://www.linkedin.com/in/william-heywood-ba727235b/"
                     target="_blank"
                     rel="noopener noreferrer"
